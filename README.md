@@ -25,3 +25,4 @@ The model was evaluated using RMSE and R² metrics. Results show reasonable pred
 
 ## Reflection
 The main challenge was understanding preprocessing steps and feature preparation. This project helped reinforce the complete machine learning workflow from raw data to evaluation.
+An additional Random Forest model was tested and showed improved performance, demonstrating how ensemble methods can capture more complex relationships.
